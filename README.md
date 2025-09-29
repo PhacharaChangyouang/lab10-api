@@ -5,3 +5,5 @@
 <img width="1275" height="794" alt="Screenshot 2568-09-29 at 12 00 24" src="https://github.com/user-attachments/assets/ad706dba-303c-43cb-aed5-455072378b28" />
 
 <img width="1272" height="795" alt="Screenshot 2568-09-29 at 12 02 08" src="https://github.com/user-attachments/assets/2a11a122-bdec-4977-a0b7-9378eb957f6e" />
+
+URL Database: http://localhost/phpmyadmin/index.php?route=/database/structure&db=TOP_GAMES
